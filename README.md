@@ -18,4 +18,11 @@ A Flask-based web application that highlights vowels in Greek, Hebrew, and Engli
 
 ## Setup
 1. Clone the repository:
+   https://github.com/jacobsbullock/colorizer.git
+3. Install dependencies:
+   pip install -r requirements.txt
+5. Run the app:
+6. python colorizer.py
 
+## License
+This project is licensed under the MIT License.
